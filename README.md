@@ -2,9 +2,7 @@
 
 ## Description
 
-This repository contains a Power BI project that focuses on creating an interactive Sales Distribution Dashboard. The dashboard provides insights into sales data distribution across various dimensions, 
-
-helping stakeholders make informed business decisions. 
+This repository contains a Power BI project that focuses on creating an interactive Sales Distribution Dashboard. The dashboard provides insights into sales data distribution across various dimensions, helping stakeholders make informed business decisions. 
 
 ## Features
 
